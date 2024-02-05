@@ -4,9 +4,5 @@
 ***if you want it just clone it :upside_down_face:, its there.***
 This site was built using [GitHub Pages](https://vipulagarwal-2000.github.io/ToDoList2024/).
 
-```javascript
-var first = 1;
-var second = 2;
-var sum = first + second;
-```
+
 
